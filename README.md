@@ -19,8 +19,8 @@
 - Offensive Security | Kali Linux | Metasploit | Burp Suite  
 
 🎓 **Education & Background**  
-- Master’s in Cyber Security & Trusted Systems, Purdue University (GPA 4.0)  
-- BSc in Information Technology, Jai Hind College (GPA 9.8)  
+- Master’s in Cyber Security & Trusted Systems, Purdue University (GPA 4.0/4.0)  
+- BSc in Information Technology, Jai Hind College (GPA 9.8/10)  
 - CEH Certified | Proficient with Nmap, Wireshark, SQLmap, Hydra, Splunk & more  
 
 🧠 **Projects & Experience**  
@@ -49,17 +49,50 @@ Completed 35+ marathons for charity & cause-based fundraising 🏅
 
 ---
 
-🧰 **Tech Stack & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Linux-000?&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali-557C94?&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2e2e2e?logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-fb7200?logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-3f3f3f?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679c4?logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-</p>
+## 🧰 Tech Stack & Tools
+
+### 💻 Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-1f1f1f?style=flat&logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+
+### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+### 🧪 Security & Pentest Tools
+![Nmap](https://img.shields.io/badge/Nmap-2e2e2e?style=flat&logo=nmap&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-2e2e2e?style=flat)
+![Nikto](https://img.shields.io/badge/Nikto-black?style=flat)
+![Kismet](https://img.shields.io/badge/Kismet-2e2e2e?style=flat)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-2e2e2e?style=flat)
+![Metasploit](https://img.shields.io/badge/Metasploit-005F87?style=flat&logo=metasploit&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1f1f1f?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679c4?style=flat&logo=wireshark&logoColor=white)
+![Hping3](https://img.shields.io/badge/Hping3-2e2e2e?style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-fb7200?style=flat&logo=burpsuite&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-000?style=flat)
+![Zenmap](https://img.shields.io/badge/Zenmap-2e2e2e?style=flat)
+![Hydra](https://img.shields.io/badge/Hydra-2e2e2e?style=flat)
+![SQLmap](https://img.shields.io/badge/SQLmap-2e2e2e?style=flat)
+
+### 🖥️ Languages / Frameworks / APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+### 🧠 Libraries & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-1f1f1f?style=flat)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-2e2e2e?style=flat)
+
+
 
 ---
 
