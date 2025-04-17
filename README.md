@@ -5,7 +5,6 @@
 <h1 align="center">Hey there 👋, I'm Yugam Chheda</h1>
 <h3 align="center">🔐 Red Team Enthusiast | Ethical Hacker | Cybersecurity Researcher</h3>
 
-<img alt="cyber-gif" align="right" width="400" src="https://media.giphy.com/media/QkJzV0JWyJiOs/giphy.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yugamchheda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
