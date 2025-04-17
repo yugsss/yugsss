@@ -16,41 +16,37 @@
 - Red Teaming & Ethical Hacking  
 - Penetration Testing & Vulnerability Assessment  
 - Offensive Security | Kali Linux | Metasploit | Burp Suite  
+<br>
 
 🎓 **Education & Background**  
 - Master’s in Cyber Security & Trusted Systems, Purdue University (GPA 4.0/4.0)  
 - BSc in Information Technology, Jai Hind College (GPA 9.8/10)  
 - CEH Certified | Proficient with Nmap, Wireshark, SQLmap, Hydra, Splunk & more  
+<br>
 
-🧠 **Projects & Experience**  
-- Cybersecurity Intern @ GajShield Infotech: Firewall & IDS/IPS testing  
-- Software Analyst @ Capgemini: Securing enterprise databases  
-- Graduate TA @ CI Compass: Research + Mentoring in security labs  
-- Built custom text generators (LSTM), digital networks in Cisco Packet Tracer  
-
-
-
-
- 🔧 GitHub Projects
+ 🔧 **GitHub Projects**
 - [🔍 Nmap Assistant](https://github.com/yugsss/nmap-assistant)  
   A user-friendly desktop application that combines custom port scanning with advanced Nmap capabilities. Features include predefined scan modes, custom flag support, and a Tkinter GUI.
 - [⚡ Advanced Python Port Scanner](https://github.com/yugsss/port-scanner)  
   A lightweight and fast Python-based port scanner that scans IPs/domains for open ports, detects services, and optionally grabs banners.
 - [🛡️ File Integrity Checker](https://github.com/yugsss/File-integrity-checker)  
-  A security tool to monitor and verify the integrity of files, ensuring they remain unaltered from their original state.
+A security tool to monitor and verify the integrity of files, ensuring they remain unaltered from their original state.
+<br>
 
-### 💼 Professional Experience
+💼 **Professional Experience**
 - **Cybersecurity Intern @ GajShield Infotech**  
   Conducted vulnerability assessments, firewall rule testing, and IDS/IPS evaluations using tools like Nmap, Hping3, and Splunk.
 - **Software Analyst @ Capgemini**  
   Secured enterprise-level databases (MySQL, Oracle, PostgreSQL) by configuring access controls, monitoring performance, and applying security patches.
 - **Graduate Teaching Assistant @ CI Compass, Purdue University**  
   Led lab sessions and mentored students on cybersecurity topics, including cloud security, social engineering, and network forensics.
-
+<br>
 
 💪 **Athletics & Beyond**  
 National-level Sprinter (200m & 400m) 🏃‍♂️ | State-level Basketball Player 🏀  
 Completed 35+ marathons for charity & cause-based fundraising 🏅  
+<br>
+
 
 📬 **Let’s Connect**  
 - 📧 yugamchheda31@gmail.com  
@@ -68,7 +64,7 @@ Completed 35+ marathons for charity & cause-based fundraising 🏅
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 **Tech Stack & Tools**
 
 ### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
