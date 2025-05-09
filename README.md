@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-0618-61fa-8ab9-a7b19921a634/raw?se=2025-04-15T22%3A15%3A21Z&sp=r&sv=2024-08-04&sr=b&scid=8352bf42-ac3a-572d-bbb3-0c40d5ce1c3b&skoid=d958ec58-d47c-4d2f-a9f2-7f3e03fdcf72&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-15T08%3A46%3A59Z&ske=2025-04-16T08%3A46%3A59Z&sks=b&skv=2024-08-04&sig=nujKRT1AKkmzpJNWc6bAQjXXvLs2g1a7AgvHA%2BZyrL4%3D" alt="Yugam Chheda Banner" width="100%">
+  <img src="" alt="Yugam Chheda Banner" width="100%">
 </p>
  
 <h1 align="center">Hey there 👋, I'm Yugam Chheda</h1>
