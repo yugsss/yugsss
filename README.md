@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Yugam Chheda Banner" width="100%">
+  <img src="make" alt="Yugam Chheda Banner" width="100%">
 </p>
  
 <h1 align="center">Hey there 👋, I'm Yugam Chheda</h1>
