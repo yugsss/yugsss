@@ -34,12 +34,15 @@ A security tool to monitor and verify the integrity of files, ensuring they rema
 <br>
 
 💼 **Professional Experience**
-- **Cybersecurity Intern @ GajShield Infotech**  
-  Conducted vulnerability assessments, firewall rule testing, and IDS/IPS evaluations using tools like Nmap, Hping3, and Splunk.
-- **Software Analyst @ Capgemini**  
-  Secured enterprise-level databases (MySQL, Oracle, PostgreSQL) by configuring access controls, monitoring performance, and applying security patches.
+- **Cybersecurity Analyst @ M&T Bank, USA**  
+  Engineered end-to-end cloud security solutions, including AES-256 encryption for AWS S3, real-time threat monitoring with Splunk SIEM, and network hardening using Palo Alto Firewalls and Snort IDS. Automated compliance reporting for SOX, NIST, and PCI-DSS, reducing audit prep effort by 35%.
+- **SOC Analyst @ Hellinex Cloud, India**  
+  Monitored cloud infrastructure with AWS GuardDuty and managed CrowdStrike endpoint protection to reduce threat response times by 30%. Integrated AWS Config and Tenable.io for continuous compliance and vulnerability remediation aligned with ISO 27001 and GDPR.
 - **Graduate Teaching Assistant @ CI Compass, Purdue University**  
   Led lab sessions and mentored students on cybersecurity topics, including cloud security, social engineering, and network forensics.
+  ith ISO 27001 and GDPR.
+- **Cybersecurity Analyst @ GajShield Infotech, India**     
+  Performed vulnerability assessments and penetration testing on 50+ applications using Nmap, Netcat, and Hping. Configured firewall rules, ran DoS simulations, and maintained 24/7 perimeter defense via Splunk-based intrusion monitoring and CyberArk PAM implementation.
 <br>
 
 💪 **Athletics & Beyond**  
