@@ -52,7 +52,7 @@ Completed 35+ marathons for charity & cause-based fundraising 🏅
 
 
 📬 **Let’s Connect**  
-- 📧 yugamchheda31@gmail.com  
+- 📧 yugamchheda9@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/yugam-chheda)  
 - 🌐 [Portfolio Site](https://yugamchheda.vercel.app/)
 - 🛡️ [TryHackMe](#) | [Hack The Box](#) (Coming soon)
