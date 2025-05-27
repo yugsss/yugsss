@@ -2,7 +2,7 @@
   <img src="https://github.com/yugsss/yugsss/blob/main/banner.png" alt="Yugam Chheda Banner" width="100%">
 </p>
  
-<h1 align="center">Hey there 👋, I'm Yugam Chheda</h1>
+<h1 align="center">Hey there 👋, I'm Yugam Chheda </h1>
 <h3 align="center">🔐 Red Team Enthusiast | Ethical Hacker | Cybersecurity Researcher</h3>
 
 
