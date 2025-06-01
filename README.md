@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yugsss/yugsss/blob/main/banner.png" alt="Yugam Chheda Banner" width="100%">
+  <img src="https://github.com/yugsss/yugsss/blob/main/banner.png" alt="Yugam Chheda Banner saved" width="100%">
 </p>
  
 <h1 align="center">Hey there 👋, I'm Yugam Chheda </h1>
